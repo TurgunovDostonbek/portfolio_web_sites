@@ -9,10 +9,10 @@ const About = () => {
       {/* bio section */}
       <section className="mb-16">
         <p className="text-lg text-secondary max-w-3xl mx-auto text-center">
-          I'm a passionate Junior Frontend Developer with a focus on building
+          I m a passionate Junior Frontend Developer with a focus on building
           responsive and user-friendly web interfaces. I enjoy turning design
           ideas into interactive websites using modern technologies like HTML,
-          CSS, and JavaScript. I'm continuously learning and improving to build
+          CSS, and JavaScript. I m continuously learning and improving to build
           better user experiences.
         </p>
       </section>
@@ -65,8 +65,8 @@ const About = () => {
           <div className="bg-white dark:bg-dark/50 p-6 rounded-lg shadow-md">
             <h3 className="text-xl font-semibold mb-2">Frontend Developer</h3>
             <p className="text-primary mb-2">
-              Company Name • "I haven’t worked for any companies yet, but I’ve
-              built several personal and team projects to improve my skills."
+              Company Name • I haven t worked for any companies yet, but I ve
+              built several personal and team projects to improve my skills.
             </p>
             <ul className="text-secondary space-y-2 list-disc list-inside"></ul>
           </div>
@@ -74,8 +74,8 @@ const About = () => {
           <div className="bg-white dark:bg-dark/50 p-6 rounded-lg shadow-md">
             <h3 className="text-xl font-semibold mb-2">Frontend Developer</h3>
             <p className="text-primary mb-2">
-              Company Name • "I haven’t worked for any companies yet, but I’ve
-              built several personal and team projects to improve my skills."{" "}
+              Company Name • I haven t worked for any companies yet, but I ve
+              built several personal and team projects to improve my skills.
             </p>
             <ul className="text-secondary space-y-2 list-disc list-inside"></ul>
           </div>
@@ -93,9 +93,9 @@ const About = () => {
             </h3>
             <p className="text-primary mb-2">Education Year • 2023 - 2024</p>
             <p className="text-secondary">
-              "I completed training in HTML, CSS, and Bootstrap at the Algotitm
+              I completed training in HTML, CSS, and Bootstrap at the Algotitm
               Education Center, where I learned how to build responsive and
-              visually appealing websites."
+              visually appealing websites.
             </p>
           </div>
         </div>
