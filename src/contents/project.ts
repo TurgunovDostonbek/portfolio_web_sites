@@ -40,7 +40,7 @@ export const projects: Project[] = [
   {
     title: "Movie Play",
     description: "Movies Plays",
-    technologies: ["React"],
+    technologies: ["HTML", "CSS", "JavaScript"],
     githubLink: "https://kinoplay.vercel.app/",
     demoLink: "https://kinoplay.vercel.app/",
     image: "/projects/kinoPlay.png",
