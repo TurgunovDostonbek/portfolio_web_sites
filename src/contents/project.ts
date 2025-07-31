@@ -18,7 +18,7 @@ export const projects: Project[] = [
     technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
     githubLink: "https://portfolio1398.vercel.app/",
     demoLink: "https://portfolio1398.vercel.app/",
-    image: "/projects/portfolio.png",
+    image: "/public/projects/Portfolio.png",
   },
   {
     title: "Blog Platform Boosted",
